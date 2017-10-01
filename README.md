@@ -1,8 +1,8 @@
 # A Blockchain in Python
 
-From [this tutoria](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46).
+From [this tutorial](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46).
 
-Python 3.5.
+The tutorial was written in Python 3.6, but I started changint it to Python 3.5.
 
 ## Proof of Work
 
